@@ -1,0 +1,15 @@
+.add {
+  background-image:url('../images/add.png') !important;
+}
+.delete {
+  background-image:url('../images/delete.png') !important;
+}
+.save {
+  background-image:url('../images/disk.png') !important;
+}
+.edit {
+  background-image:url('../images/pencil.png') !important;
+}
+.cancel {
+  background-image:url('../images/cancel.png') !important;
+}

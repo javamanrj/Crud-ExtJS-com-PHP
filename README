@@ -1,0 +1,7 @@
+Exemplo de CRUD feito com ExtJS 4.1 e PHP
+
+Twitter: @zaedysayao
+
+OBS: Lembrem-se de colocar o framework ExtJS baixado do site da Sencha dentro da pasta extjs do projeto.
+OBS 2: Exemplo didático de como fazer um CRUD básico. Para aplicações reais, procurar incrementá-lo
+OBS 3: Fique a vontade para copiar o código, desde que sejam mantidos os devidos créditos do autor (no caso, eu =P)
